@@ -46,10 +46,6 @@ var tableData = [
     employed: true,
   }
 ];
-const arrowStyle = {
-  cursor:"pointer",
-  height: "15px" 
-}
 
 
 export default class Inbox extends React.Component {
