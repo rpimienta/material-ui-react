@@ -4,18 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Below are the Components used:
 
--App Bar
--Drawer
--Table
+App Bar, Drawer, Table, Material Icons
 
-This app is just a simple project tom implement the basic concepts of [React JS] (https://facebook.github.io/react/). From using JSX and conditionally rendering react elements to Lifting the state up to handle the logic in the parent components and enable communication among children components.
+This app is just a simple project tom implement the basic concepts of [React JS](https://facebook.github.io/react/). From using JSX and conditionally rendering react elements to Lifting the state up to handle the logic in the parent components and enable communication among children components.
 
 The app displays a table containing a list of employees and filtering the content by name and status of the person.
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-Folder Structure
+## Folder Structure
 
 After creation, your project should look like this:
 
